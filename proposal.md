@@ -14,7 +14,7 @@
 
 ## Aplicacion de gestion de inventario
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+*Nuestro sistema de gestión de inventarios proporciona una solución completa para controlar y monitorear el inventario de productos de una empresa. Permite el registro detallado de productos, incluyendo precios y cantidades, así como la gestión de proveedores. Además, ofrece funcionalidades para registrar entradas y salidas de inventario, mantener un seguimiento en tiempo real del stock disponible y generar alertas de stock bajo. Con una interfaz fácil de usar, facilita la toma de decisiones y optimiza la gestión de inventarios para mejorar la eficiencia operativa*
 
 ### Modelo
 ![imagen del modelo]()
