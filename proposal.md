@@ -2,14 +2,17 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 48813 - Ricobelli, Tomas
+* 49948 - Ricobelli, Nicolas
+* 50252 - Suarez, Tomas
+* 48011 - Gonzales del Cerro, Iñaki
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
 * [backend app](http://hyperlinkToGihubOrGitlab)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
-## Tema
+## Aplicacion de gestion de inventario
 ### Descripción
 *2 a 6 líneas describiendo el negocio (menos es más)*
 
