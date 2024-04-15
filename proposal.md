@@ -4,7 +4,7 @@
 ### Integrantes
 * 48813 - Ricobelli, Tomas
 * 49948 - Ricobelli, Nicolas
-* 50252 - Suarez, Tomas
+* 50252 - Suárez, Tomás Nahuel
 * 48011 - Gonzales del Cerro, Iñaki
 
 ### Repositorios
